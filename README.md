@@ -34,7 +34,7 @@
 
 - Click here for my [Resume](https://drive.google.com/file/d/14txcFcOCt5n2YkbPFMfFuYidqO15YD89/view?usp=sharing")
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
    <a href="https://anand6840.github.io" target="blank" >
   <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="Anand Waghmare" height="30" width="40" />
