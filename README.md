@@ -11,7 +11,7 @@
 
 - Front end Development
 - Data Structures And Algorithms 💻
-- React & Redux 
+- React 
 
 <h3 align="left">Portfolio:</h3>
 
